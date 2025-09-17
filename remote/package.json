@@ -18,7 +18,7 @@
     "semver-umd": "^5.5.3",
     "spdlog": "^0.9.0",
     "vscode-minimist": "^1.2.1",
-    "vscode-proxy-agent": "0.4.0",
+    "vscode-proxy-agent": "0.12.0",
     "vscode-ripgrep": "^1.5.7",
     "vscode-textmate": "^4.2.2",
     "xterm": "4.0.0",
